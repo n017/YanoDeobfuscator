@@ -1,0 +1,23 @@
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\bin\Debug\YanoDeobfuscator.exe
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\bin\Debug\YanoDeobfuscator.pdb
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.Form1.resources
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.Properties.Resources.resources
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.csproj.GenerateResource.Cache
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.exe
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.pdb
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\bin\Debug\YanoDeobfuscator.exe.config
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\bin\Debug\dnlib.dll
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\bin\Debug\dnlib.pdb
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\bin\Debug\dnlib.xml
+c:\users\samjam53\documents\visual studio 2013\Projects\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.csprojResolveAssemblyReference.cache
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\bin\Debug\YanoDeobfuscator.exe.config
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.exe
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.pdb
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\bin\Debug\YanoDeobfuscator.exe
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\bin\Debug\YanoDeobfuscator.pdb
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\bin\Debug\dnlib.pdb
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\bin\Debug\dnlib.xml
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.csprojResolveAssemblyReference.cache
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.Form1.resources
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.Properties.Resources.resources
+C:\Users\samjam53\Documents\GitHub\YanoDeobfuscator\obj\Debug\YanoDeobfuscator.csproj.GenerateResource.Cache
