@@ -201,6 +201,7 @@ namespace YanoDeobfuscator
                         {
                             if (method.Body.Instructions[i + 1].IsLdcI4())
                                 ConstantNum = (method.Body.Instructions[i + 1].GetLdcI4Value());
+                            if (method.Body.Instructions[i + 2].Operand != null)
                             if (method.Body.Instructions[i + 2].Operand.ToString().Contains(Methoddecryption.ToString()))
                             {
                                 CilBody body = method.Body;
